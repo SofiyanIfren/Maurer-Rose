@@ -1,4 +1,3 @@
-// Librairie de création de SVG #ApprofondirLeSujet
 package SVG;
 
 /**
